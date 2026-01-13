@@ -7,7 +7,7 @@ import venue15 from '../assets/24.jpeg';
 import venue16 from '../assets/25.jpeg';
 import venue17 from '../assets/26.jpeg';
 import venue18 from '../assets/27.jpeg';
-import venue19 from '../assets/28.jpeg';
+import venue19 from '../assets/59.jpg';
 import venue20 from '../assets/29.jpeg';
 import venue21 from '../assets/30.jpeg';
 import venue22 from '../assets/31.jpeg';
@@ -204,21 +204,21 @@ const OurStory = () => {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 max-w-4xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-1 gap-12 max-w-4xl mx-auto">
             
             {/* Team Member 1 */}
             <TeamMemberCard 
-              name="Akshay Sharma" 
-              role="Director"
-              img="https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=800&auto=format&fit=crop"
+              name="Vishal Dubey" 
+              role="Owner of “Vishal Tent House"
+              img={venue19}
             />
 
             {/* Team Member 2 */}
-            <TeamMemberCard 
+            {/* <TeamMemberCard 
               name="Karan Chachra" 
-              role="Director, Imperial Flavours Kitchen"
-              img="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=800&auto=format&fit=crop"
-            />
+              role="Vishal Dubey owner of “Vishal Tent House”"
+              img=""
+            /> */}
             
           </div>
           

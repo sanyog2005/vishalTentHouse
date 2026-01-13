@@ -40,18 +40,18 @@ const Footer = () => {
             {/* Logo Construction */}
             <div className="flex items-center gap-3">
               <div className="text-5xl font-black text-[#FCA311] tracking-tighter leading-none">
-                MF
+                VTH
               </div>
               <div className="flex flex-col justify-center">
-                <span className="text-xl font-bold text-white tracking-widest leading-none">MALLU</span>
-                <span className="text-xl font-bold text-white tracking-widest leading-none">FARMS</span>
+                <span className="text-xl font-bold text-white tracking-widest leading-none">Vishal</span>
+                <span className="text-xl font-bold text-white tracking-widest leading-none">Tent House</span>
               </div>
             </div>
 
             <p className="text-sm leading-relaxed text-gray-300 max-w-md">
-              A premium venue at Satbari Road, Chattarpur, renowned for hosting top-notch weddings, 
-              receptions, and corporate functions since 1958. Offering unrivaled hospitality, 
-              ambiance, and gourmet cuisine, Vishal Tent House sets the standard in banqueting.
+              At Vishal Tent House, we are more than just an event service provider – we are your partners in celebration.
+
+With years of experience in tent decoration, catering, lighting, and wedding planning, our team is dedicated to making every moment unforgettable. We believe in creativity, quality, and delivering happiness with every event.
             </p>
           </div>
 
@@ -76,19 +76,19 @@ const Footer = () => {
             <ul className="space-y-5">
               <li className="flex items-start gap-4">
                 <Mail className="w-5 h-5 text-white shrink-0 mt-0.5" />
-                <span className="text-sm">info@Vishal Tent House.com</span>
+                <span className="text-sm">vishaltenthouse43@gmail.com</span>
               </li>
               <li className="flex items-start gap-4">
                 <Phone className="w-5 h-5 text-white shrink-0 mt-0.5" />
                 <div className="text-sm flex flex-col">
-                  <span>+91-9717417353</span>
-                  <span>+91-9773927345</span>
+                  <span>+91-800459232</span>
+                
                 </div>
               </li>
               <li className="flex items-start gap-4">
                 <MapPin className="w-5 h-5 text-white shrink-0 mt-0.5" />
                 <span className="text-sm leading-relaxed">
-                  204, Chattarpur Mandir Road, Ansal Villas, Sat Bari, New Delhi - 110074
+                  9CQ8+FWG , Nagmalpur, Gyanpur, Bhadohi, Uttar Pradesh 221304
                 </span>
               </li>
             </ul>
@@ -117,7 +117,7 @@ const Footer = () => {
 
           {/* Copyright */}
           <div className="text-center text-xs text-gray-400">
-            <p>© 2026, Vishal Tent House | Developed by Global Now Productions.</p>
+            <p>© 2026, Vishal Tent House | Developed by WebLoxic.</p>
           </div>
         </div>
 

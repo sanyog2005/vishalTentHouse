@@ -92,8 +92,8 @@ const ContactPage = () => {
                 title="Have Any Question?"
                 content={
                   <>
-                    <p>+91-9717417353</p>
-                    <p>+91-9773927345</p>
+                    <p>+91-800459232</p>
+                  
                   </>
                 }
               />
@@ -102,14 +102,14 @@ const ContactPage = () => {
               <ContactItem 
                 icon={<Mail size={24} className="text-white" />}
                 title="Write Email"
-                content={<p>info@Vishal Tent House.com</p>}
+                content={<p>vishaltenthouse43@gmail.com</p>}
               />
 
               {/* Address */}
               <ContactItem 
                 icon={<MapPin size={24} className="text-white" />}
                 title="Visit Anytime"
-                content={<p>204, Chattarpur Mandir Road, Ansal Villas, Sat Bari, New Delhi - 110074</p>}
+                content={<p>9CQ8+FWG , Nagmalpur, Gyanpur, Bhadohi, Uttar Pradesh 221304</p>}
               />
             </div>
 
@@ -186,7 +186,7 @@ const ContactPage = () => {
       {/* --- MAP SECTION (Optional Visual Enhancement) --- */}
       <section className="w-full h-80 grayscale hover:grayscale-0 transition-all duration-700">
         <iframe 
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.160166667926!2d77.16436631508076!3d28.504825982468357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1e1b1b1b1b1b%3A0x1b1b1b1b1b1b1b1b!2sMallu%20Farms!5e0!3m2!1sen!2sin!4v1620000000000!5m2!1sen!2sin" 
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3604.4815254670293!2d82.41475317518217!3d25.38868747758826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398fe37c0b811ae5%3A0x40f7eb179a67832f!2s9CQ8%2BFWG%2C%20Nagmanpur%2C%20Uttar%20Pradesh%20221304!5e0!3m2!1sen!2sin!4v1768304104105!5m2!1sen!2sin"
           width="100%" 
           height="100%" 
           style={{ border: 0 }} 
