@@ -2,6 +2,8 @@ import React from 'react';
 import { Gem } from 'lucide-react';
 import { motion } from 'framer-motion';
 import myVideo from '../assets/bg.mp4';
+import myVideo2 from '../assets/bg2.mp4';
+
 
 // --- INSTRUCTIONS FOR LOCAL VIDEO ---
 // 1. Place your video file (e.g., 'hero-bg.mp4') in your 'src/assets' folder.
@@ -53,7 +55,7 @@ const Hero = () => {
         {/* Background Video */}
         <motion.video
           // Use a high-quality stock video or your imported local file here
-          src={myVideo}
+          src={myVideo2}
           className="w-full h-full object-cover"
           
           // Essential attributes for auto-playing background video

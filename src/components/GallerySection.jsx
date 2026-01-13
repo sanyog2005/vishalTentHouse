@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Instagram, ArrowUpRight } from 'lucide-react';
 import v1 from '../assets/47.jpg';
-import v2 from '../assets/49.webp';
+import v2 from '../assets/54.jpg';
 import v3 from '../assets/50.jpg';
 
 const galleryImages = [

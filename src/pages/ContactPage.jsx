@@ -140,7 +140,7 @@ const ContactPage = () => {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <input 
                   type="text" 
-                  placeholder="Your Name" 
+                  placeholder="Sanyog Sharma" 
                   className="w-full bg-white px-4 py-4 outline-none border border-gray-200 focus:border-amber-500 transition-colors"
                 />
                 <input 
