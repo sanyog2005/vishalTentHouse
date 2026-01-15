@@ -187,7 +187,7 @@ const Navbar = () => {
                 <motion.div variants={itemVariants} className="mb-12">
                   <h3 className="text-xl font-serif text-stone-900 mb-6 uppercase tracking-widest border-l-2 border-amber-500 pl-4">About Us</h3>
                   <p className="text-stone-600 font-serif leading-loose text-sm italic">
-                    "A premium venue at Satbari Road, Chattarpur, renowned for hosting top-notch weddings, receptions, and corporate functions since 1958."
+                    "9CQ8+FWG , Nagmalpur, Gyanpur, Bhadohi, Uttar Pradesh 221304"
                   </p>
                 </motion.div>
 
@@ -200,7 +200,7 @@ const Navbar = () => {
                       { icon: <Phone size={18} />, text: "+91-9717417353" },
                       { icon: <Phone size={18} />, text: "+91-9773927345" },
                       { icon: <Mail size={18} />, text: "info@Vishal Tent House.com" },
-                      { icon: <MapPin size={18} />, text: "204, Chattarpur Mandir Road, Ansal Villas, Sat Bari, New Delhi - 110074" }
+                      { icon: <MapPin size={18} />, text: "A premium venue at  9CQ8+FWG , Nagmalpur, Gyanpur, Bhadohi, Uttar Pradesh 221304 renowned for hosting top-notch weddings, receptions, and corporate functions" }
                     ].map((contact, index) => (
                       <motion.div 
                         key={index} 
