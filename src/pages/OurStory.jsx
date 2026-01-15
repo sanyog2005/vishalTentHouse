@@ -121,8 +121,8 @@ const OurStory = () => {
               className="w-full h-[500px] object-cover rounded-sm shadow-2xl"
             />
             <div className="absolute -bottom-6 -right-6 bg-white p-6 shadow-xl max-w-xs hidden md:block">
-              <p className="font-serif text-2xl text-amber-600">"Est. 1958"</p>
-              <p className="text-gray-500 text-sm mt-1">Founded by Mr. Mallu Maharaj</p>
+              <p className="font-serif text-2xl text-amber-600">"Est. 2000"</p>
+              <p className="text-gray-500 text-sm mt-1">Founded by Mr. Vishal Bhardwaj</p>
             </div>
           </div>
 
@@ -139,7 +139,7 @@ const OurStory = () => {
               Where Dreams Begin and <span className="italic text-amber-600">Celebrations Live Forever</span>
             </h2>
             <p className="text-gray-600 leading-relaxed">
-              Welcome to Vishal Tent House – an esteemed event venue on Satbari Road, Chattarpur. Founded in 1958 by <strong>Mr. Mallu Maharaj</strong> (Innovator & Founder), and carrying an unrivaled reputation since 1996, we are the preferred choice for weddings, receptions, and milestones.
+              Welcome to Vishal Tent House – an esteemed event venue on Satbari Road, Chattarpur. Founded in 1958 by <strong>Mr. Vishal Bhardwaj</strong> (Innovator & Founder), and carrying an unrivaled reputation since 1996, we are the preferred choice for weddings, receptions, and milestones.
             </p>
             <p className="text-gray-600 leading-relaxed">
               Spanning <strong>8 acres</strong>, our venue features grand halls and a captivating poolside area. We don't just host events — we help you tell your story. Our guests often say it doesn’t feel like they’re booking a venue — it feels like becoming part of the Vishal Tent House family.

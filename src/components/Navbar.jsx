@@ -159,8 +159,8 @@ const Navbar = () => {
                 {/* Sidebar Logo */}
                 <motion.div variants={itemVariants} className="flex items-center gap-4 mb-10 mt-6 border-b border-stone-200 pb-8">
                   <div className="flex font-serif font-bold tracking-tighter text-amber-600">
-                    <span className="text-6xl">M</span>
-                    <span className="text-6xl -ml-2">F</span>
+                    <span className="text-6xl">VT</span>
+                    <span className="text-6xl -ml-2">H</span>
                   </div>
                   <div className="flex flex-col leading-none uppercase tracking-[0.3em] text-xs font-bold text-stone-900">
                     <span>Vishal</span>

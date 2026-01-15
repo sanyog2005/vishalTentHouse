@@ -46,7 +46,7 @@ const InstagramFeedSection = () => {
             <div className="flex-shrink-0">
               <div className="w-20 h-20 rounded-full bg-[#2A1B3D] flex items-center justify-center border-2 border-gray-100 p-1">
                  <div className="text-white text-xs font-bold text-center leading-tight">
-                    MALLU<br/>FARMS
+                    VISHAL<br/>TENT HOUSE 
                  </div>
               </div>
             </div>
