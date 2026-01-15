@@ -6,6 +6,7 @@ import {
   Menu, X, Phone, Mail, MapPin 
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
+import logo from '../assets/logo3.png';
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -69,12 +70,16 @@ const Navbar = () => {
         
         <div className="max-w-7xl mx-auto w-full px-8 md:px-16 flex items-center justify-between">
             {/* Main Logo - Wrapped in Link */}
-            <Link to="/" className="flex items-center gap-3 cursor-pointer group">
+            <Link to="/" className="flex items-center gap-2 cursor-pointer group">
               <motion.div 
                   whileHover={{ scale: 1.05, rotate: 0 }}
                   className="flex font-serif font-bold text-3xl tracking-tight text-white group-hover:text-amber-400 transition-colors duration-300"
               >
-                  <span className="text-5xl drop-shadow-md">VTH</span>
+                  <img
+                  src={logo}
+                  alt="VTH Logo"
+  className="h-16 w-18 object-contain drop-shadow-md"
+/>
                   <span className="text-5xl -ml-2 drop-shadow-md"></span>
               </motion.div>
               <div className="flex flex-col leading-tight uppercase tracking-[0.25em] text-[10px] font-bold text-white/90 group-hover:text-white transition-colors">
